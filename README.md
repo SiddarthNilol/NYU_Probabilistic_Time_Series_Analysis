@@ -29,7 +29,7 @@ The notebooks cover fundamental and advanced topics including:
 Clone the repository and navigate to the desired notebook:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/SiddarthNilol/NYU_Probabilistic_Time_Series_Analysis
 cd NYU_Probabilistic_Time_Series_Analysis
 jupyter notebook
 ```
