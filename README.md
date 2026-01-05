@@ -9,12 +9,14 @@ This repository serves as a comprehensive resource for DS-GA 1018: Probabilistic
 #### Contents
 
 The notebooks cover fundamental and advanced topics including:
-- Stochastic processes and probabilistic modeling
-- Autoregressive and moving average models
-- State-space representations and Kalman filtering
-- Bayesian inference for time series
-- Gaussian processes and kernel methods
-- Variational inference and approximate posteriors
+- Autoregressive (AR) Modeling
+- Autoregressive Moving Average (ARMA) Modeling
+- Discrete Hidden Markov Models
+- Gaussian Distributions
+- Gaussian Processes
+- Kalman Filtering and Smoothing
+- Latent Dynamical Systems and EM Algorithm
+- Particle Filtering
 
 #### Prerequisites
 
